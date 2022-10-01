@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity3">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="1dp">
+
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="La technique traditionnelle de la pêche au cormoran consiste à apprivoiser un cormoran qu’une ligature posée à la base de la gorge empêche d’avaler les plus gros poissons (photo).
+En 1964, dans le cadre d’une expérimentation, pendant près de six mois, des avions supersoniques de l’USAF ont survolé la ville d’Oklahoma City pour évaluer dans quelle mesure les habitants protesteraient contre les bangs supersoniques.
+À la suite des émeutes de 1962 contre l’admission de James Meredith à l’université du Mississippi, le procureur général de l’État appela les autres étudiants à ne pas fraterniser avec l’« intrus ».
+Que ce soit à Quimper, à Saint-Tropez ou au Castellet, franchir la frontière n’est possible que durant une partie de l’année.
+Oscar de la meilleure musique de film en 1982, le musicien Vangelis commença à composer dès l’âge de quatre ans sans connaître le solfège.
+Smalls a battu Goliath, mais ce n’est qu’un débutLa technique traditionnelle de la pêche au cormoran consiste à apprivoiser un cormoran qu’une ligature posée à la base de la gorge empêche d’avaler les plus gros poissons (photo).
+En 1964, dans le cadre d’une expérimentation, pendant près de six mois, des avions supersoniques de l’USAF ont survolé la ville d’Oklahoma City pour évaluer dans quelle mesure les habitants protesteraient contre les bangs supersoniques.
+À la suite des émeutes de 1962 contre l’admission de James Meredith à l’université du Mississippi, le procureur général de l’État appela les autres étudiants à ne pas fraterniser avec l’« intrus ».
+Que ce soit à Quimper, à Saint-Tropez ou au Castellet, franchir la frontière n’est possible que durant une partie de l’année.
+Oscar de la meilleure musique de film en 1982, le musicien Vangelis commença à composer dès l’âge de quatre ans sans connaître le solfège.
+Smalls a battu Goliath, mais ce n’est qu’un début.La technique traditionnelle de la pêche au cormoran consiste à apprivoiser un cormoran qu’une ligature posée à la base de la gorge empêche d’avaler les plus gros poissons (photo).
+En 1964, dans le cadre d’une expérimentation, pendant près de six mois, des avions supersoniques de l’USAF ont survolé la ville d’Oklahoma City pour évaluer dans quelle mesure les habitants protesteraient contre les bangs supersoniques.
+À la suite des émeutes de 1962 contre l’admission de James Meredith à l’université du Mississippi, le procureur général de l’État appela les autres étudiants à ne pas fraterniser avec l’« intrus ».
+Que ce soit à Quimper, à Saint-Tropez ou au Castellet, franchir la frontière n’est possible que durant une partie de l’année.
+Oscar de la meilleure musique de film en 1982, le musicien Vangelis commença à composer dès l’âge de quatre ans sans connaître le solfège.
+Smalls a battu Goliath, mais ce n’est qu’un début.La technique traditionnelle de la pêche au cormoran consiste à apprivoiser un cormoran qu’une ligature posée à la base de la gorge empêche d’avaler les plus gros poissons (photo).
+En 1964, dans le cadre d’une expérimentation, pendant près de six mois, des avions supersoniques de l’USAF ont survolé la ville d’Oklahoma City pour évaluer dans quelle mesure les habitants protesteraient contre les bangs supersoniques.
+À la suite des émeutes de 1962 contre l’admission de James Meredith à l’université du Mississippi, le procureur général de l’État appela les autres étudiants à ne pas fraterniser avec l’« intrus ».
+Que ce soit à Quimper, à Saint-Tropez ou au Castellet, franchir la frontière n’est possible que durant une partie de l’année.
+Oscar de la meilleure musique de film en 1982, le musicien Vangelis commença à composer dès l’âge de quatre ans sans connaître le solfège.
+Smalls a battu Goliath, mais ce n’est qu’un début.La technique traditionnelle de la pêche au cormoran consiste à apprivoiser un cormoran qu’une ligature posée à la base de la gorge empêche d’avaler les plus gros poissons (photo).
+En 1964, dans le cadre d’une expérimentation, pendant près de six mois, des avions supersoniques de l’USAF ont survolé la ville d’Oklahoma City pour évaluer dans quelle mesure les habitants protesteraient contre les bangs supersoniques.
+À la suite des émeutes de 1962 contre l’admission de James Meredith à l’université du Mississippi, le procureur général de l’État appela les autres étudiants à ne pas fraterniser avec l’« intrus ».
+Que ce soit à Quimper, à Saint-Tropez ou au Castellet, franchir la frontière n’est possible que durant une partie de l’année.
+Oscar de la meilleure musique de film en 1982, le musicien Vangelis commença à composer dès l’âge de quatre ans sans connaître le solfège.
+Smalls a battu Goliath, mais ce n’est qu’un début.La technique traditionnelle de la pêche au cormoran consiste à apprivoiser un cormoran qu’une ligature posée à la base de la gorge empêche d’avaler les plus gros poissons (photo).
+En 1964, dans le cadre d’une expérimentation, pendant près de six mois, des avions supersoniques de l’USAF ont survolé la ville d’Oklahoma City pour évaluer dans quelle mesure les habitants protesteraient contre les bangs supersoniques.
+À la suite des émeutes de 1962 contre l’admission de James Meredith à l’université du Mississippi, le procureur général de l’État appela les autres étudiants à ne pas fraterniser avec l’« intrus ».
+Que ce soit à Quimper, à Saint-Tropez ou au Castellet, franchir la frontière n’est possible que durant une partie de l’année.
+Oscar de la meilleure musique de film en 1982, le musicien Vangelis commença à composer dès l’âge de quatre ans sans connaître le solfège.
+Smalls a battu Goliath, mais ce n’est qu’un début." />
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
